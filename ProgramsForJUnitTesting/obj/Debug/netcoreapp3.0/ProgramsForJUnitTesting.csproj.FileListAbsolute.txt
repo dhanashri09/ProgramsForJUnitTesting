@@ -1,0 +1,11 @@
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\bin\Debug\netcoreapp3.0\ProgramsForJUnitTesting.exe
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\bin\Debug\netcoreapp3.0\ProgramsForJUnitTesting.deps.json
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\bin\Debug\netcoreapp3.0\ProgramsForJUnitTesting.runtimeconfig.json
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\bin\Debug\netcoreapp3.0\ProgramsForJUnitTesting.runtimeconfig.dev.json
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\bin\Debug\netcoreapp3.0\ProgramsForJUnitTesting.dll
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\bin\Debug\netcoreapp3.0\ProgramsForJUnitTesting.pdb
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\obj\Debug\netcoreapp3.0\ProgramsForJUnitTesting.csprojAssemblyReference.cache
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\obj\Debug\netcoreapp3.0\ProgramsForJUnitTesting.AssemblyInfoInputs.cache
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\obj\Debug\netcoreapp3.0\ProgramsForJUnitTesting.AssemblyInfo.cs
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\obj\Debug\netcoreapp3.0\ProgramsForJUnitTesting.dll
+C:\Users\bridgeit\source\repos\ProgramsForJUnitTesting\ProgramsForJUnitTesting\obj\Debug\netcoreapp3.0\ProgramsForJUnitTesting.pdb

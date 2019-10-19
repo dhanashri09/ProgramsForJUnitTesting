@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ProgramsForJUnitTesting/1.0.0": {
+        "runtime": {
+          "ProgramsForJUnitTesting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramsForJUnitTesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
